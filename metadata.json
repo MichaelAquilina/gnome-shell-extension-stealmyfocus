@@ -13,7 +13,8 @@
     "3.8",
     "3.10",
     "3.10.*",
-    "3.18"
+    "3.18",
+    "3.20"
   ],
   "url": "https://github.com/kagesenshi/gnome-shell-extension-stealmyfocus",
   "uuid": "steal-my-focus@kagesenshi.org",
